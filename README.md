@@ -3,12 +3,7 @@
 <h3 align="center">🔕 收集来自世界各地的公开可用的IPTV频道源 支持IPv4/IPv6双栈访问 🔕</h3>
 
 <p align="center">
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/fanmingming/live">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/fanmingming/live">
-<img alt="GitHub issues" src="https://img.shields.io/github/issues/fanmingming/live">
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/fanmingming/live">
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/fanmingming/live">
-<img alt="GitHub" src="https://img.shields.io/github/license/fanmingming/live">
+
 </p>
 
 ---
@@ -40,17 +35,23 @@
   </tbody>
 </table>
 
-## 🛠️工具
-- 📆EPG接口地址：
-  -  [https://live.fanmingming.com/e.xml](https://live.fanmingming.com/e.xml)
-- 🏞️Bing每日图片：
-  -  [https://fanmingming.com/bing](https://fanmingming.com/bing)
-- 🎞️m3u8下载工具：
-  -  [https://live.fanmingming.com/m3u8](https://live.fanmingming.com/m3u8)
-- 📄M3U To TXT：
-  - Demo🔗 [https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u](https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u)
-- 🌐M3U8 Web Player
-  - Demo🔗 [https://live.fanmingming.com/player/?vurl=https://livedoc.cgtn.com/500d/prog_index.m3u8](https://live.fanmingming.com/player/?vurl=https://livedoc.cgtn.com/500d/prog_index.m3u8)
+## 📒节目单
+- CDN 1：
+  -  [https://epg.112114.xyz/](https://epg.112114.xyz/)
+- CDN 2：
+  -  [https://epg.112114.eu.org/](https://epg.112114.eu.org/)
+- CDN 3：
+  -  [https://epg.112114.xyz/pp.xml](https://epg.112114.xyz/pp.xml)
+- CDN 4：
+  -  [http://epg.51zmt.top:8000/e.xml](http://epg.51zmt.top:8000/e.xml)
+ 
+## ▶️播放器推荐
+- 安卓：
+  -  [kodi](https://kodi.tv/download/android)、[tivimate](https://kodi.tv/download/android)、[iptv pro解锁版](https://filehippo.com/zh/android/download_tivimate-iptv-video-player-ott/)
+- 苹果：
+  -  [aptv](https://apps.apple.com/cn/app/aptv/id1630403500)、[ntplayer](https://apps.apple.com/cn/app/ntplayer/id1613758141)
+- 电脑：
+  -  [PotPlayer](https://potplayer.tv/?lang=zh_CN)、[kodi](https://kodi.tv/download/windows/)
 
 ## 📖说明
 - 所有播放源均收集于互联网，仅供测试研究使用，不得商用。
@@ -59,7 +60,7 @@
 - 本项目不保证直播频道的有效性，直播内容可能受直播服务提供商因素影响而失效。
 ## 📔更新
 - 2023.11.3
-  - Global源删除了限时开放的频道和失效的频道。
+  - 增加了源分类，增加了超级链接，点击播放器名称可跳转到下载页面。
 
 ## ☕捐赠
 - 支持项目，赋予更多流量，共创更好体验，让服务更强大！
