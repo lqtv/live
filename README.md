@@ -64,5 +64,4 @@
 
 ## ☕捐赠
 - 支持项目，赋予更多流量，共创更好体验，让服务更强大！
-  - 自2023年3月创立以来，得益于大家的支持，项目已获得超过6K颗星星，在中文GitHub项目中名声鹊起。感激一路相伴，项目将持续免费。所有款项将透明公示于项目的
-  - ![](https://lqtv.github.io/sponsor.png)。
+    ![custom](https://lqtv.github.io/sponsor.png)。
