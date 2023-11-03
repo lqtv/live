@@ -64,4 +64,5 @@
 
 ## ☕捐赠
 - 支持项目，赋予更多流量，共创更好体验，让服务更强大！
+  (https://github.com/lqtv/live/blob/main/Sponsor.MD)
   <img alt="Sponsor" src="https://lqtv.github.io/sponsor.png">
