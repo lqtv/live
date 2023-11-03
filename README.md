@@ -26,16 +26,16 @@
   </thead>
   <tbody>
       <tr>
-      <td>🌏Global直播源</td>
+      <td>🌏直播源1</td>
       <td><a href="https://lqtv.github.io/m3u/tv.m3u">https://lqtv.github.io/m3u/tv.m3u</a></td>
-      <td>220个</td>
-      <td>2023.10.29</td>
+      <td>3634个</td>
+      <td>2023.11.3</td>
     </tr>
     <tr>
-      <td>📺IPTV(IPV6专用)</td>
+      <td>🌏直播源2</td>
       <td><a href="https://lqtv.github.io/m3u/tv1.m3u">https://lqtv.github.io/m3u/tv1.m3u</a></td>
-      <td>138个</td>
-      <td>2023.10.28</td>
+      <td>4775个</td>
+      <td>2023.11.3</td>
     </tr>
   </tbody>
 </table>
