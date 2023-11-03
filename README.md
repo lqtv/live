@@ -27,13 +27,13 @@
   <tbody>
       <tr>
       <td>🌏Global直播源</td>
-      <td><a href="https://live.fanmingming.com/tv/m3u/global.m3u">https://live.fanmingming.com/tv/m3u/global.m3u</a></td>
+      <td><a href="https://lqtv.github.io/m3u/tv.m3u">https://lqtv.github.io/m3u/tv.m3u</a></td>
       <td>220个</td>
       <td>2023.10.29</td>
     </tr>
     <tr>
       <td>📺IPTV(IPV6专用)</td>
-      <td><a href="https://live.fanmingming.com/tv/m3u/ipv6.m3u">https://live.fanmingming.com/tv/m3u/ipv6.m3u</a></td>
+      <td><a href="https://lqtv.github.io/m3u/tv1.m3u">https://lqtv.github.io/m3u/tv1.m3u</a></td>
       <td>138个</td>
       <td>2023.10.28</td>
     </tr>
@@ -75,5 +75,3 @@
 ## ☕捐赠
 - 支持项目，赋予更多流量，共创更好体验，让服务更强大！
   - 自2022年10月创立以来，得益于大家的支持，项目已获得超过6K颗星星，在中文GitHub项目中名声鹊起。感激一路相伴，项目将持续免费。所有款项将透明公示于项目的[Sponsor.MD](https://github.com/fanmingming/live/blob/main/Sponsor.MD)。
-
-<img alt="Sponsor" src="https://live.fanmingming.com/sponsor.png">
